@@ -189,15 +189,10 @@ body{
 }
 
 
-
-
 .barra_saludo{
 	width:auto;
 	height: auto;
 	top: 0;
-  position:absolute;
-	margin-top: 480px;
-	z-index: 4;
 	background: #FF7600;
 	opacity:0.9;
 	border-radius: 5px;
