@@ -324,7 +324,7 @@ box-shadow: 0px 2px 48px -1px rgba(0,0,0,0.40);
 
 .boton_DETALLE{
 	width:88%;
-	padding:20px;
+	padding:11px;
 	margin: 20px 0px 0px 0px;
 	color:#fff;
 	background-color:#fe5a01;
@@ -333,13 +333,8 @@ box-shadow: 0px 2px 48px -1px rgba(0,0,0,0.40);
 	font-weight: bold;
 	text-transform: none;
 	border-radius: 5px;
-	
 	text-align:center;
 	text-decoration: none;
-
-	
-	
-	
 	
 }
 
