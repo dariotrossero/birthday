@@ -323,16 +323,16 @@ box-shadow: 0px 2px 48px -1px rgba(0,0,0,0.40);
   }
 
 .boton_DETALLE{
-	width:88%;
+	width:97%;
 	padding:11px;
-	margin: 20px 0px 0px 0px;
+	margin: 20px 20px 0px 0px;
 	color:#fff;
 	background-color:#fe5a01;
 	 font-family: 'Comfortaa', cursive;
 	font-size:1.2em;
 	font-weight: bold;
 	text-transform: none;
-	border-radius: 5px;
+	border-radius: 3px;
 	text-align:center;
 	text-decoration: none;
 	
